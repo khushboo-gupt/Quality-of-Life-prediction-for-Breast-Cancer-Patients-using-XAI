@@ -53,4 +53,5 @@ Thank you for your collaboration!
 
 # Contributors
 Your Name (@khushboo-gupt)
+Certainly! If you have any further questions or need assistance, feel free to reach out to me at your provided email address (khushboogupta7388@gmail.com). I'm here to help!
 Thank you for your interest and contributions to the "Life Prediction for Breast Cancer Patients" project!
