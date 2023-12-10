@@ -1,0 +1,2 @@
+# Quality-of-Life-prediction-for-Breast-Cancer-Patients-using-XAI
+In this project we trying to predict the quality of life for breast cancer patients using Explainable AI (library SHAP). We implemented 5 model random forest classifier, random survival forest, Xgboost, Coherent neural network, Just neural network. After implementing all five we get highest accuracy of 97% (random forest classifier).
