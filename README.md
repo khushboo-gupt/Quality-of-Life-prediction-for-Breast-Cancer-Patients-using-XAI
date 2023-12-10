@@ -38,6 +38,19 @@ Install dependencies: pip install -r requirements.txt
 Follow the instructions in the Jupyter notebooks for data preprocessing, model training, and evaluation.
 Feel free to explore the code and documentation to gain insights into the project and contribute to its development. If you encounter any issues or have suggestions, please create an issue in the repository.
 
+# Google Form for Data Collection
+
+To facilitate the implementation of our model, we have created a Google Form for collecting patient information and predicting their survival status. Please use the following link to access the form:
+
+[Google Form Link](https://docs.google.com/forms/d/1CVI0h4AJmXWt0uFGwFJg3J28GPqI-QE39HSisPyiOG0/edit)
+
+Feel free to submit relevant data through the form, and our model will provide predictions based on the input information.
+
+Your participation in providing data through the form is greatly appreciated as it contributes to the improvement and refinement of our breast cancer prediction model.
+
+Thank you for your collaboration!
+
+
 # Contributors
 Your Name (@khushboo-gupt)
 Thank you for your interest and contributions to the "Life Prediction for Breast Cancer Patients" project!
